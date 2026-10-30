@@ -2,7 +2,7 @@
 
 Obtained by CODEX from the file `examples/ctrl_gallery.c` syntax and function reference
 
-This guide documents the functions and macros used by [`ctrl_gallery.c`](ctrl_gallery.c). The API descriptions follow its quoted headers: `../vui.h`, `../backends/vui_sdl2.h`, `../backends/vui_opengl.h`, `../backends/vui_stbtruetype.h`, and `../backends/vui_stbtruetype_manager.h`. SDL2, OpenGL, and stb_truetype declarations come from angle-bracket includes and are external dependencies.
+This guide documents the functions and macros used by [`ctrl_gallery.c`](examples/ctrl_gallery.c). The API descriptions follow its quoted headers: `../vui.h`, `../backends/vui_sdl2.h`, `../backends/vui_opengl.h`, `../backends/vui_stbtruetype.h`, and `../backends/vui_stbtruetype_manager.h`. SDL2, OpenGL, and stb_truetype declarations come from angle-bracket includes and are external dependencies.
 
 ## How to read the calls
 
