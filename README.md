@@ -51,6 +51,8 @@ In a single compilation unit, include the source file.
 
 All of the Control API is documented in the **vui.h** file. The rest of the API needs documentation but you can see the **examples/ctrl_gallery.c** for a working example of the VUI using stb_truetype, SDL2 and OpenGL. At the moment this has only been setup to work on Linux. However, it shouldn't be too hard to see how the example works and reflect that in your project especially if you use SDL2, OpenGL and stb_truetype.
 
+An attempt to write a file for documentation is in the file [WIKI.md](https://github.com/lelepozze/vui/blob/main/WIKI.md)
+
 # Screenshots
 
 ## The Control Gallery Example Project
@@ -63,5 +65,7 @@ Showing off the all the controls we have. If you run Linux, you can test this ou
 An example of this library being used in my game for the embedded editor tools.
 Notice how there is a completely custom style and the UI is actually scaled along side the Game's scale.
 ![](screenshot-game.gif)
+
+
 
 
